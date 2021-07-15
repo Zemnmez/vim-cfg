@@ -1,4 +1,5 @@
-#vim-cfg
+# vim-cfg
+
 This is my vim config as a vim bundle, so I can provision new computers quickly.
 
 Usage:
